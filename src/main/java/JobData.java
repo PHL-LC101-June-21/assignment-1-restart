@@ -28,7 +28,7 @@ public class JobData {
             }
         }
 
-        Collections.sort(values);
+       Collections.sort(values);
 
         return values;
     }

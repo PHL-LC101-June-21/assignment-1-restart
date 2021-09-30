@@ -102,7 +102,7 @@ public class TechJobs {
         return choiceKeys[choiceIdx];
     }
 
-    private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
+  private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
 
         if (someJobs.size() > 0) {
             for (HashMap<String, String> aJob : someJobs) {
